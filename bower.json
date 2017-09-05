@@ -1,0 +1,24 @@
+{
+  "name": "selectize-cascade",
+  "homepage": "https://github.com/lvincesl/selectize-cascade",
+  "description": "",
+  "main": "dist/js/selectize-cascade.js",
+  "keywords": [
+    "selectize.js"
+  ],
+  "authors": [
+    "Lionel Vinceslas <lionel.vinceslas@laposte.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "selectize": "selectize.js#^0.12.4"
+  }
+}

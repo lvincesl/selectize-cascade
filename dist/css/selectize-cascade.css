@@ -1,0 +1,12 @@
+
+.selectizeLoading > .selectize-input, .selectizeLoading > .selectize-input > input
+{
+  cursor: wait !important;
+  font-style: italic;
+  background:
+     url('/public/image/ajax-loader.gif')
+     no-repeat
+     center center;
+}
+
+.datepicker{z-index:9999 !important}
