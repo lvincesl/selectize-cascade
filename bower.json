@@ -2,7 +2,10 @@
   "name": "selectize-cascade",
   "homepage": "https://github.com/lvincesl/selectize-cascade",
   "description": "",
-  "main": "dist/js/selectize-cascade.js",
+  "main": [
+    "dist/css/selectize-cascade.css",
+    "dist/js/selectize-cascade.js"
+  ],
   "keywords": [
     "selectize.js"
   ],
